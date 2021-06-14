@@ -1,0 +1,2 @@
+# crypto-watcher
+Discord Bot
